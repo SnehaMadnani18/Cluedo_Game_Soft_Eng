@@ -13,3 +13,9 @@ The 6 persons in the house are represented by playing pieces: Col Mustard, Prof 
 weapons. There are 9 cards representing the rooms shown on the playing board. In the 
 physical version there are “detective notes cards” to enable players to record their 
 investigations.
+
+
+# How is it Setup
+
+
+
